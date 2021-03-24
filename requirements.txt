@@ -62,7 +62,6 @@ scipy==1.6.1
 six==1.13.0
 sniffio==1.2.0
 threadpoolctl==2.1.0
-tk==1.0
 urllib3==1.26.2
 virtualenv==20.4.2
 Werkzeug==1.0.1
